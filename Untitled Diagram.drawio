@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-27T06:43:36.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="g_2YhVan2WusukT2iX26" version="17.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-03-27T06:49:03.204Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="4zRZ17iKy81y4EMoieKm" version="17.2.4" type="github" pages="5">
   <diagram id="4rfmR-maDiOqtv5PfEjz" name="Page-1">
     <mxGraphModel dx="2370" dy="1287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -116,7 +116,7 @@
         <mxCell id="NhgDLi-5fGcbv-8JfaLy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#67AB9F;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="a_SzeNKXNH_qf2up1-Sr-1" source="NhgDLi-5fGcbv-8JfaLy-2" target="NhgDLi-5fGcbv-8JfaLy-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NhgDLi-5fGcbv-8JfaLy-2" value="A main sort of subtasks is &lt;code&gt;iteration planning&lt;/code&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;labelBorderColor=#D5E8D4;fontSize=12;fontColor=#67AB9F;" vertex="1" parent="a_SzeNKXNH_qf2up1-Sr-1">
+        <mxCell id="NhgDLi-5fGcbv-8JfaLy-2" value="&lt;a href=&quot;https://www.scaledagileframework.com/&quot;&gt;A main sort of subtasks is &lt;code&gt;iteration planning&lt;/code&gt;&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;labelBorderColor=#D5E8D4;fontSize=12;fontColor=#67AB9F;" vertex="1" parent="a_SzeNKXNH_qf2up1-Sr-1">
           <mxGeometry x="50" y="150" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NhgDLi-5fGcbv-8JfaLy-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#67AB9F;startArrow=none;startFill=0;endArrow=none;endFill=0;snapToPoint=1;" edge="1" parent="a_SzeNKXNH_qf2up1-Sr-1" source="NhgDLi-5fGcbv-8JfaLy-4">
@@ -532,6 +532,17 @@
         </mxCell>
         <mxCell id="lOQn_BHUSaLgaaQRl86F-48" value="Team could delete item as a total last resort" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=#D5E8D4;" vertex="1" parent="lOQn_BHUSaLgaaQRl86F-1">
           <mxGeometry x="162.5" y="570" width="230" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ZEbiDkg50Ep-RxJJVbQ7" name="Page-5">
+    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TlD-RU-LN8VRrS3gtEWF-1" value="&lt;iframe&gt;https://www.scaledagileframework.com&lt;/iframe&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;labelBorderColor=#D5E8D4;fontSize=12;fontColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="180" y="110" width="510" height="610" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
